@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Engineer with 3+ years of hands-on experience at ADP, specializing in ETL/ELT pipelines, enterprise data integration, and cloud-native analytics. I have built and maintained production-grade data systems in the US Healthcare (HCM) domain — including ADP Vantage HCM®, HIPAA 834 EDI integrations, and benefits data exports — serving Fortune 500 clients.<br>Currently completing my MS in Data Science at UAB, deepening expertise in Machine Learning, Deep Learning, and Advanced Algorithms<br>💬   Ask me about: ETL pipelines, Dell Boomi, HIPAA/EDI standards, SQL, Python, AWS, Power BI
+Data Engineer with 3+ years of hands-on experience at ADP, specializing in ETL/ELT pipelines, enterprise data integration, and cloud-native analytics. I have built and maintained production-grade data systems in the US Healthcare (HCM) domain — including ADP Vantage HCM®, HIPAA 834 EDI integrations, and benefits data exports — serving Fortune 500 clients.<br>Currently completing my MS in Data Science at UAB, deepening expertise in Machine Learning, Deep Learning, and Advanced Algorithms<br>💬   Ask me about: ETL pipelines, Dell Boomi, HIPAA/EDI standards, SQL, Python, AWS, Power BI, Data Bricks, Azure
 
 
 ## 🌐 Socials:
